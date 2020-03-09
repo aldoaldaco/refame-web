@@ -18,7 +18,7 @@ const RefameContacto = () => {
             allowFullScreen>
         </iframe>
         <div className="footer-contacto">
-          Copyright © 2018 by refame.com.mx made by Aldo Aldaco
+          Copyright © 2018 - 2020 by refame.com.mx make with &hearts; by &nbsp; <b>dev.aldo.aldaco@gmail.com</b>
         </div>
       </div>
   );
