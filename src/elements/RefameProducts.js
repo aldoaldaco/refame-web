@@ -21,7 +21,7 @@ class RefameProducts extends React.Component {
     this.state = {
       products: [
         {
-          "name": "Producto1",
+          "name": "Botón Kit Perilla Control ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-585736964-boton-kit-perilla-control-velocidades-sonic-1216-automatico-_JM",
           "description": "Botón Kit Perilla Control Velocidades Sonic 12/16 Automático",
           "image": require("../images/products/Diapositiva01.png"),
@@ -30,7 +30,7 @@ class RefameProducts extends React.Component {
           "part": "42423234"
         },
         {
-          "name": "Producto2",
+          "name": "Visera Parasol Izquierda Sonic ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-585736964-boton-kit-perilla-control-velocidades-sonic-1216-automatico-_JM",
           "description": "Visera Parasol Izquierda Sonic 12/17, Spark 11/17 Gm",
           "image": require("../images/products/Diapositiva02.png"),
@@ -39,7 +39,7 @@ class RefameProducts extends React.Component {
           "part": "95327489"
         },
         {
-          "name": "Producto3",
+          "name": "Visera Parasol Derecha Sonic ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-594964380-visera-parasol-derecha-sonic-1217-spark-1117-gm-_JM",
           "description": "Visera Parasol Derecha Sonic 12/17, Spark 11/17 Gm",
           "image": require("../images/products/Diapositiva03.png"),
@@ -48,7 +48,7 @@ class RefameProducts extends React.Component {
           "part": "95369117"
         },
         {
-          "name": "Producto4",
+          "name": "Resonador Ducto Aire Optra ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-591265564-resonador-ducto-aire-optra-2005-al-2009-original-gm-_JM",
           "description": "Resonador Ducto Aire Optra 2005 Al 2009 Original Gm",
           "image": require("../images/products/Diapositiva04.png"),
@@ -57,7 +57,7 @@ class RefameProducts extends React.Component {
           "part": "96553488"
         },
         {
-          "name": "Producto5",
+          "name": "Tapa Distribución Juego Matiz ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-590519960-tapa-distribucion-juego-matiz-10-416-inferior-gm-parts-_JM",
           "description": "Tapa Distribución Juego Matiz 1.0 4/16 Inferior Gm Parts",
           "image": require("../images/products/Diapositiva05.png"),
@@ -66,7 +66,7 @@ class RefameProducts extends React.Component {
           "part": "96325226-96325222"
         },
         {
-          "name": "Producto6",
+          "name": "Juego Baleros Doble Rueda ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-575415469-juego-baleros-doble-rueda-delantera-matiz-0416-acdelco-_JM",
           "description": "Juego Baleros Doble Rueda Delantera Matiz 04/16 Acdelco",
           "image": require("../images/products/Diapositiva06.png"),
@@ -75,7 +75,7 @@ class RefameProducts extends React.Component {
           "part": "20F010MX/96496903/96316762"
         },
         {
-          "name": "Producto7",
+          "name": "Bobina Encendido Sonic 1",
           "href": "https://articulo.mercadolibre.com.mx/MLM-575027734-bobina-encendido-sonic-16-1217-trax-18-1317-acdelco-_JM",
           "description": "Bobina Encendido Sonic 1.6 12/17, Trax 1.8 13/17 Acdelco",
           "image": require("../images/products/Diapositiva07.png"),
@@ -84,7 +84,7 @@ class RefameProducts extends React.Component {
           "part": "19315518"
         },
         {
-          "name": "Producto8",
+          "name": "Base Amortiguador Delantero Matiz ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-589354623-base-amortiguador-delantero-matiz-0416-gm-jgo-2-pzs-_JM",
           "description": "Base Amortiguador Delantero Matiz 04/16 Gm (jgo 2 Pzs)",
           "image": require("../images/products/Diapositiva08.png"),
@@ -93,7 +93,7 @@ class RefameProducts extends React.Component {
           "part": "96535011"
         },
         {
-          "name": "Producto9",
+          "name": "Estabilizadora Matiz 04/",
           "href": "https://articulo.mercadolibre.com.mx/MLM-576314233-soporte-barra-estabilizadora-matiz-0415-delante-izqder-gm-_JM",
           "description": "Estabilizadora Matiz 04/15 Delante Izq/der Gm",
           "image": require("../images/products/Diapositiva09.png"),
@@ -102,7 +102,7 @@ class RefameProducts extends React.Component {
           "part": "96599027-96599026"
         },
         {
-          "name": "Producto10",
+          "name": "Enfriador Aceite Completo Sonic ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-575514684-enfriador-aceite-completo-sonic-cruze-original-gm-parts-_JM",
           "description": "Enfriador Aceite Completo Sonic Cruze Original Gm Parts",
           "image": require("../images/products/Diapositiva10.png"),
@@ -111,7 +111,7 @@ class RefameProducts extends React.Component {
           "part": "93186324"
         },
         {
-          "name": "Producto11",
+          "name": "Amortiguador Delantero Spark 2011 ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-585145432-amortiguador-delantero-spark-2011-al-2017-izq-y-der-acdelco-_JM",
           "description": "Amortiguador Delantero Spark 2011 Al 2017 Izq Y Der Acdelco",
           "image": require("../images/products/Diapositiva11.png"),
@@ -120,7 +120,7 @@ class RefameProducts extends React.Component {
           "part": "19315700-19315701"
         },
         {
-          "name": "Producto12",
+          "name": "Sensor Cigueñal Vectra 3",
           "href": "https://articulo.mercadolibre.com.mx/MLM-615556356-sensor-ciguenal-vectra-32-v6-2003-al-2005-bosch-_JM",
           "description": "Sensor Cigueñal Vectra 3.2 V6 2003 Al 2005 Bosch",
           "image": require("../images/products/Diapositiva12.png"),
@@ -129,7 +129,7 @@ class RefameProducts extends React.Component {
           "part": "261210206"
         },
         {
-          "name": "Producto13",
+          "name": "Amortiguador Chevrolet Optra 2006 ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-576858471-amortiguador-chevrolet-optra-2006-al-2010-acdelco-4-pzs-_JM",
           "description": "Amortiguador Chevrolet Optra 2006 Al 2010 Acdelco 4 Pzs",
           "image": require("../images/products/Diapositiva13.png"),
@@ -138,7 +138,7 @@ class RefameProducts extends React.Component {
           "part": "M5T11010/M5T11011/M5T11012/M5T11009"
         },
         {
-          "name": "Producto14",
+          "name": "Palanca Velocidades Chevy 94",
           "href": "https://articulo.mercadolibre.com.mx/MLM-573766448-palanca-velocidades-chevy-9412-todos-completa-gm-parts-_JM",
           "description": "Palanca Velocidades Chevy 94/12 (todos) Completa Gm Parts",
           "image": require("../images/products/Diapositiva14.png"),
@@ -147,7 +147,7 @@ class RefameProducts extends React.Component {
           "part": "94670337"
         },
         {
-          "name": "Producto15",
+          "name": "Amortiguador Kit 4 Spark ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-571648178-amortiguador-kit-4-spark-2011-al-2017-acdelco-nuevos-_JM",
           "description": "Amortiguador Kit 4 Spark 2011 Al 2017 Acdelco Nuevos",
           "image": require("../images/products/Diapositiva15.png"),
@@ -156,7 +156,7 @@ class RefameProducts extends React.Component {
           "part": "19315700-19315701 - 19315702"
         },
         {
-          "name": "Producto16",
+          "name": "Pastilla Encendido Colorado Canyon ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-580952380-pastilla-encendido-colorado-canyon-original-gm-_JM",
           "description": "Pastilla Encendido Colorado Canyon Original Gm",
           "image": require("../images/products/Diapositiva16.png"),
@@ -165,7 +165,7 @@ class RefameProducts extends React.Component {
           "part": "15795321"
         },
         {
-          "name": "Producto17",
+          "name": "Reparación Buje Mecanismo Velocidades ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-604028049-reparacion-buje-mecanismo-velocidades-tornado-1114-_JM",
           "description": "Reparación Buje Mecanismo Velocidades Tornado 11/14 Importado",
           "image": require("../images/products/Diapositiva17.png"),
@@ -174,7 +174,7 @@ class RefameProducts extends React.Component {
           "part": "93347157NG"
         },
         {
-          "name": "Producto18",
+          "name": "Kit Base Pedal Frenos ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-600913410-kit-base-pedal-frenos-y-pedal-clucth-matiz-2004-al-2017-gm-_JM",
           "description": "Kit Base Pedal Frenos Y Pedal Clucth Matiz 2004 Al 2017 Gm",
           "image": require("../images/products/Diapositiva18.png"),
@@ -183,7 +183,7 @@ class RefameProducts extends React.Component {
           "part": "96457249/96590811"
         },
         {
-          "name": "Producto19",
+          "name": "Base Pedal Frenos Matiz ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-589353161-base-pedal-frenos-matiz-aplica-anos-2004-al-2016-original-gm-_JM",
           "description": "Base Pedal Frenos Matiz Aplica Años 2004 Al 2016 Original Gm",
           "image": require("../images/products/Diapositiva19.png"),
@@ -192,7 +192,7 @@ class RefameProducts extends React.Component {
           "part": "96457249"
         },
         {
-          "name": "Producto20",
+          "name": "Filtro De Aire Completo ",
           "href": "https://articulo.mercadolibre.com.mx/MLM-588851205-filtro-de-aire-completo-matiz-2006-al-2017-original-gm-_JM",
           "description": "Filtro De Aire Completo Matiz 2006 Al 2017 Original Gm",
           "image": require("../images/products/Diapositiva20.png"),
@@ -255,6 +255,7 @@ class RefameProducts extends React.Component {
               return (
                 <div className="product" key={index}>
                   <a href={product.href} target="_blank">
+                    <div className="ribbon ribbon-top-right"><span>{`$ ${product.price} MXN`}</span></div>
                     <div className="card">
                       <div className="pic-product">
                         <div className="pic">
@@ -268,6 +269,7 @@ class RefameProducts extends React.Component {
                         </p>
                       </div>
                     </div>
+                    <span className="part-product">{`No. ${product.part.substring(0, 8)}`}</span>
                   </a>
                 </div>
               );
