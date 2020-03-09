@@ -1,24 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import RefameInicio from  './elements/RefameInicio';
+import RefameProducts from './elements/RefameProducts';
+import RefameNosotros from './elements/RefameNosotros'
+import RefameContacto from "./elements/RefameContacto";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <RefameInicio/>
+        <RefameProducts/>
+        <RefameNosotros/>
+        <RefameContacto/>
     </div>
   );
 }

@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    --app-primer-color: #083358;
+    --app-segundo-color: #0F4471;
+    --app-red-color: #9E2625;
+    --app-tercer-color: #C62828;
+    --app-cuarto-color: #F6F6F6;
+    --app-quinto-color: #E9EBEE;
+    --app-sexto-color: #00AA8D;
+}
